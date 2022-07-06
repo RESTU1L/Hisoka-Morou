@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
-global.premium = ['6285822347348']
+global.owner = ['6289636022073','6289636022073','6289636022073']
+global.premium = ['6289636022073']
 global.packname = 'Sticker by'
 global.author = 'ArullOfc'
 global.sessionName = 'session'
@@ -27,7 +27,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ *Success Ngab*',
-    admin: '*Fitur Khusus Admin Group Cok*‼️',
+    admin: '*Fitur Khusus Admin Group *‼️',
     botAdmin: '*Bot Aj Bukan Admin Cok"!*',
     owner: '*Lu siapa Cok!Owner gw?*',
     group: '*Fitur Digunakan Hanya Untuk Group!*',
